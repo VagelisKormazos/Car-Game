@@ -8,5 +8,3 @@ You are invited to extend the game's capabilities by implementing the following 
 - Menu options at the top of the form (menustrip)
 - Saving user data in a txt file (can be achieved via a richtextBox.
 - Optional: Existence of highest score.
-
-Translated with www.DeepL.com/Translator (free version)
