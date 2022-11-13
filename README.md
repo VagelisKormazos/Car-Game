@@ -1,4 +1,4 @@
-#Car Game
+# Car Game
 
 The user has to collect points by tapping on a car (graphic) that moves around the screen and changes position (randomly). The game lasts for a certain amount of time, 20 seconds with countdown.
 You are invited to extend the game's capabilities by implementing the following additional features:
